@@ -1,6 +1,8 @@
 # Customer-Churn-Analysis
 Customer-Churn-Analysis is a Power BI project focused on analyzing customer churn in telecom services. It explores key drivers of churn, KPIs, and financial impacts through interactive dashboards, descriptive statistics, and executive-ready insights to support retention strategies, decision-making, and future optimization.
 
+---------------------------------------------------------------------------
+
 # 1️⃣ Project Overview
 
 
@@ -54,6 +56,8 @@ Ensure clarity, realism, and usability for decision-makers.
 
 ## 🌐 Data Sources
 The dataset is sourced from Kaggle Telecom Churn Dataset. It contains customer-level information including demographics, service subscriptions, contract types, payment methods, and churn status.
+
+https://www.kaggle.com/datasets/pratap684/telecom-churn-dataset
 
 ## 🔗 Tables & Relationships
 Single main table: Telecom Customers
