@@ -113,3 +113,17 @@ Overlapping categories: Customers may belong to multiple churn drivers, leading 
 Missing values: Some fields (e.g., TotalCharges) contain blanks requiring cleaning.
 
 Static snapshot: Dataset represents a single time period, limiting trend analysis across multiple years.
+
+
+-------------------------------------------------------------------------------------------------
+
+# 3️⃣ Tools & Technologies
+
+## 📊 Power BI
+Used as the primary visualization and reporting tool. It enables interactive dashboards, KPI cards, slicers, and executive-ready summaries. Power BI also supports advanced modeling through relationships, star schema design, and custom visuals for churn analysis.
+
+## 📑 Excel
+Employed for initial data exploration, cleaning, and validation. Excel facilitated quick checks on missing values, descriptive statistics, and preliminary pivot tables before importing the dataset into Power BI for advanced modeling.
+
+## 🧮 DAX (Data Analysis Expressions)
+Applied to create dynamic measures and KPIs such as churn rate, lost revenue, retention rate, and average tenure. DAX formulas ensured accurate calculations, enabled scenario analysis, and supported executive-level insights through custom logic.
