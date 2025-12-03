@@ -142,6 +142,6 @@ Derived churn KPIs (Churn Rate, Retention Rate, Lost Revenue).
 
 Built calculated columns for segmentation (e.g., Partner/NoPartner, Dependents/NoDependents).
 
-##🧮 DAX Measures (KPI Formulas)
+## 🧮 DAX Measures (KPI Formulas)
 
 ------------------------------------------------------------------------------------
