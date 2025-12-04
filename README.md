@@ -279,3 +279,16 @@ No seasonal patterns can be derived; however, tenure buckets provide a proxy for
 | Maximum              | 8684.8        |
 | Sum                  | 16056168.7    |
 | Count                | 7032          |
+
+------------------------------------------------------------------------------------
+
+## 7️⃣ Insight Summaries
+
+- Short-term contracts and manual payment methods are the strongest churn drivers.
+
+- Senior customers and those lacking additional services are more likely to leave.
+
+- Retention strategies should prioritize converting month-to-month contracts into longer terms, promoting secure automatic payments, and bundling services to increase customer stickiness.
+
+----------------------------------------------------------------------------------------
+
