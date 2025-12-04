@@ -206,11 +206,18 @@ Contract Type: Month-to-month contracts show the highest churn (42.7%), while tw
 Payment Method: Electronic check customers exhibit the highest churn (≈45%), while automatic bank transfer and credit card customers show much lower churn (≈15%).
 
 ## 📉 Distribution Analysis
-Demographics: Churn is evenly distributed across gender (≈51% male, 49% female).
 
-Senior Citizens: Higher churn rate (41.7%) compared to non-seniors (23.6%).
+- Demographics: Churn is evenly distributed across gender (≈51% male, 49% female).
 
-Service Usage: Customers without added services (e.g., OnlineSecurity, TechSupport) show higher churn compared to those with bundled services.
+- Senior Citizens: Higher churn rate (41.7%) compared to non-seniors (23.6%).
+
+- Service Usage: Customers without added services (e.g., OnlineSecurity, TechSupport) show higher churn compared to those with bundled services.
+
+## 📅 Seasonality
+
+The dataset represents a static snapshot rather than time-series data across multiple years.
+
+No seasonal patterns can be derived; however, tenure buckets provide a proxy for lifecycle stages, showing higher churn in early months and stability in later stages.
 ----------------------------------------------------------------------------------------------
 
 ## 📊 Tenure Statistics
