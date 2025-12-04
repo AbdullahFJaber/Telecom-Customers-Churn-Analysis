@@ -184,7 +184,34 @@ Adopted a systems-thinking approach: fixing root causes in measures so correctio
 
 --------------------------------------------------------------------
 
-# 6️⃣ Descriptive Statistics
+# 6️⃣ Statistics Overview
+
+## 📊 Descriptive Statistics
+
+Total Customers: 7,032
+
+Churned Customers: 1,869 (≈26.6%)
+
+Average Tenure: 32.42 months
+
+Average Monthly Charges: $64.79
+
+Total Lost Revenue: $2.86M (≈17.8% of total revenue) These descriptive figures provide a baseline understanding of churn magnitude and financial impact.
+
+## 📈 Trend Analysis
+Tenure vs. Churn: Churn rate decreases steadily as customer tenure increases.
+
+Contract Type: Month-to-month contracts show the highest churn (42.7%), while two-year contracts show the lowest (2.85%).
+
+Payment Method: Electronic check customers exhibit the highest churn (≈45%), while automatic bank transfer and credit card customers show much lower churn (≈15%).
+
+## 📉 Distribution Analysis
+Demographics: Churn is evenly distributed across gender (≈51% male, 49% female).
+
+Senior Citizens: Higher churn rate (41.7%) compared to non-seniors (23.6%).
+
+Service Usage: Customers without added services (e.g., OnlineSecurity, TechSupport) show higher churn compared to those with bundled services.
+----------------------------------------------------------------------------------------------
 
 ## 📊 Tenure Statistics
 
