@@ -145,3 +145,101 @@ Built calculated columns for segmentation (e.g., Partner/NoPartner, Dependents/N
 ## 🧮 DAX Measures (KPI Formulas)
 
 ------------------------------------------------------------------------------------
+
+# 5️⃣ Challenges & Solutions
+
+## 🗂️ Data Issues
+Missing values in TotalCharges required cleaning before analysis.
+
+Overlapping categories (e.g., customers belonging to multiple churn drivers) led to percentages exceeding 100%.
+
+Dataset provided as a single table without external validation or enrichment.
+
+## ⚙️ Technical Challenges
+More than 70 measures were created to capture different churn perspectives.
+
+A major issue occurred when performing unpivot on service-related fields:
+
+The process multiplied the number of rows by 6 (one for each service).
+
+This caused incorrect duplication across all measures and KPIs.
+
+As a result, churn rates and revenue impacts were inflated and inconsistent.
+
+## 📊 Analytical Challenges
+Ensuring that KPIs reflected realistic business logic despite overlapping categories.
+
+Maintaining clarity in executive dashboards while handling complex customer attributes.
+
+Balancing simplicity for decision-makers with technical accuracy in DAX formulas.
+
+## ✅ Implemented Solutions
+Rewrote all measures to avoid duplication and ensure correctness without relying on unpivoted service rows.
+
+Applied controlled DAX logic to calculate churn rates, lost revenue, and retention KPIs directly from the base table.
+
+Standardized terminology and visualization formats to maintain executive clarity.
+
+Adopted a systems-thinking approach: fixing root causes in measures so corrections cascaded through all dependent KPIs.
+
+--------------------------------------------------------------------
+
+# 6️⃣ Descriptive Statistics
+
+## 📊 Tenure Statistics
+
+| Measure              | Value        |
+|----------------------|--------------|
+| Mean                 | 32.42178612  |
+| Standard Error       | 0.292703692  |
+| Median               | 29           |
+| Mode                 | 1            |
+| Standard Deviation   | 24.54525971  |
+| Sample Variance      | 602.4697742  |
+| Kurtosis             | -1.38782258  |
+| Skewness             | 0.237730832  |
+| Range                | 71           |
+| Minimum              | 1            |
+| Maximum              | 72           |
+| Sum                  | 227990       |
+| Count                | 7032         |
+
+---
+
+## 💰 Monthly Charges Statistics
+
+| Measure              | Value        |
+|----------------------|--------------|
+| Mean                 | 64.79820819  |
+| Standard Error       | 0.358777041  |
+| Median               | 70.35        |
+| Mode                 | 20.05        |
+| Standard Deviation   | 30.08597388  |
+| Sample Variance      | 905.1658246  |
+| Kurtosis             | -1.256156424 |
+| Skewness             | -0.222102928 |
+| Range                | 100.5        |
+| Minimum              | 18.25        |
+| Maximum              | 118.75       |
+| Sum                  | 455661       |
+| Count                | 7032         |
+
+---
+
+## 🧾 Total Charges Statistics
+
+| Measure              | Value         |
+|----------------------|---------------|
+| Mean                 | 2283.300441   |
+| Standard Error       | 27.03138426   |
+| Median               | 1397.475      |
+| Mode                 | 20.2          |
+| Standard Deviation   | 2266.771362   |
+| Sample Variance      | 5138252.407   |
+| Kurtosis             | -0.231798761  |
+| Skewness             | 0.9616425     |
+| Range                | 8666          |
+| Minimum              | 18.8          |
+| Maximum              | 8684.8        |
+| Sum                  | 16056168.7    |
+| Count                | 7032          |
