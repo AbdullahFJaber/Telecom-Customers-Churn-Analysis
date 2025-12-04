@@ -218,6 +218,8 @@ Payment Method: Electronic check customers exhibit the highest churn (≈45%), w
 The dataset represents a static snapshot rather than time-series data across multiple years.
 
 No seasonal patterns can be derived; however, tenure buckets provide a proxy for lifecycle stages, showing higher churn in early months and stability in later stages.
+
+
 ----------------------------------------------------------------------------------------------
 
 ## 📊 Tenure Statistics
