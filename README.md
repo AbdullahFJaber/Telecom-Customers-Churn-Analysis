@@ -53,6 +53,22 @@ Provide actionable insights that guide retention strategies.
 
 Ensure clarity, realism, and usability for decision-makers.
 
+## 📊 Dashboard Preview
+
+<img width="982" height="553" alt="CustomerOverview" src="https://github.com/user-attachments/assets/20b60b8d-58cc-4758-a1d5-aa0372c76072" />
+
+----------------------------------------------------------------------------------------
+
+<img width="982" height="549" alt="Services Products" src="https://github.com/user-attachments/assets/0273f03e-be64-4e1c-aedf-efdd7c463667" />
+
+----------------------------------------------------------------------------------------
+
+<img width="981" height="548" alt="Contracts Payment" src="https://github.com/user-attachments/assets/968533c1-5e84-4077-95b1-600ec624e214" />
+
+----------------------------------------------------------------------------------------
+
+<img width="984" height="557" alt="Churn Analysis" src="https://github.com/user-attachments/assets/1ed1c6a8-c1b6-4d36-be40-d475c8aa2454" />
+
 ----------------------------------------------------------------------------------------
 
 # 2️⃣ Dataset Description 
@@ -408,6 +424,10 @@ Increased efficiency by aligning services with customer needs. 👉 The comparis
 --------------------------------------------------------------------------
 
 # 1️⃣1️⃣ Executive Summary
+
+<img width="975" height="553" alt="Top Churn Drivers" src="https://github.com/user-attachments/assets/b5fced93-0a91-4f15-ac40-9483fac43b56" />
+
+--------------------------------------------------------------------------
 
 ## 📊 High-level Findings
 Overall churn rate is 26.6%, representing a significant risk to revenue.
