@@ -292,3 +292,68 @@ No seasonal patterns can be derived; however, tenure buckets provide a proxy for
 
 ----------------------------------------------------------------------------------------
 
+# 8️⃣ Indicators Linkage
+
+## 🔗 KPI Dependencies
+Churn Rate (%) depends on the count of churned customers relative to total customers.
+
+Lost Revenue ($) depends on monthly charges of churned customers.
+
+Retention Rate (%) is the inverse of churn rate, directly linked to customer loyalty.
+
+Average Tenure depends on customer lifecycle duration and influences churn probability.
+
+## ⚡ Cause–Effect Relationships
+Short-term contracts → Higher churn → Increased lost revenue.
+
+Electronic check payments → Higher churn → Lower retention.
+
+Lack of value-added services → Higher churn → Reduced customer lifetime value.
+
+Senior citizen segment → Higher churn → Greater vulnerability in customer base.
+
+## 🔄 Cross-Metric Correlations
+Churn Rate vs. Lost Revenue: Direct positive correlation; higher churn increases financial loss.
+
+Tenure vs. Churn Rate: Negative correlation; longer tenure reduces churn likelihood.
+
+Payment Method vs. Retention Rate: Automatic payments correlate with higher retention.
+
+Service Bundling vs. Customer Lifetime Value: More services lead to lower churn and higher revenue stability.
+
+## 💰📈 Financial / Operational / Quality Indicators
+Financial: Lost Revenue, Lost Revenue %, Average Monthly Charges.
+
+Operational: Contract Type distribution, Payment Method adoption, Service usage patterns.
+
+Quality: Customer satisfaction proxies (e.g., TechSupport, OnlineSecurity usage) linked to churn reduction.
+
+-----------------------------------------------------------------------------
+
+# 9️⃣ Root Cause Analysis
+
+## 🪢 Identified Root Causes
+Short-term contracts (Month-to-month): Strongest driver of churn, with rates exceeding 42%.
+
+Electronic check payments: Associated with the highest churn rate (≈45%), indicating risk in manual payment methods.
+
+Lack of value-added services: Customers without OnlineSecurity, TechSupport, or DeviceProtection churn at significantly higher rates.
+
+Senior citizen segment: Higher churn (≈41.7%) compared to non-seniors, reflecting demographic vulnerability.
+
+## 🔍 Drill-down Findings
+Customers with multiple risk factors combined (e.g., month-to-month + electronic check + no added services) show compounded churn risk.
+
+Tenure buckets reveal that churn is concentrated in the first 12 months, declining steadily afterward.
+
+Service adoption analysis shows that bundled services reduce churn likelihood across all demographics.
+
+
+## 📑 Supporting Evidence
+Dashboard visuals: Churn by contract, payment method, and service usage consistently highlight the same top drivers.
+
+Descriptive statistics: Confirmed concentration of churn in early tenure and among specific payment methods.
+
+DAX measures: Validated churn KPIs after correcting duplication errors caused by unpivoting services.
+
+Cross-metric correlations: Strong positive link between churn rate and lost revenue, reinforcing financial impact.
