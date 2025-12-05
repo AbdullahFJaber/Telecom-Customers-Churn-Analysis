@@ -9,6 +9,9 @@ Customer-Churn-Analysis is a Power BI project focused on analyzing customer chur
 ## 🎯 Project Objectives
 The project aims to analyze customer churn patterns in telecom services, identify the top drivers of churn, and provide actionable insights through interactive dashboards. The ultimate goal is to support decision-makers in reducing churn and improving customer retention.
 
+## 📖 Case Study Scenario
+Provide a real-world scenario illustrating how churn analysis impacts telecom decision-making.
+
 ## 💡 Business Need
 High churn rates directly impact revenue and customer lifetime value. Understanding why customers leave enables the business to design targeted retention strategies, optimize service offerings, and improve overall customer satisfaction.
 
@@ -476,6 +479,13 @@ Protect vulnerable segments: Prioritize seniors and low-tenure customers with de
 
 Govern performance: Establish clear accountability for churn KPIs and corrective actions.
 
+## 🚀 Future Enhancements
+Outline potential next steps such as predictive churn modeling, integration with CRM, or real-time dashboards.
+
+## 📈 Planned Improvements
+Detail specific improvements like automating data refresh, refining segmentation, or enhancing visualization.
+
+
 -----------------------------------------------------------------------------------------------------
 
 # 1️⃣3️⃣ Retention / Optimization Strategy
@@ -528,3 +538,6 @@ Education level to analyze correlation with service adoption and churn.
 Nationality to assess cultural or regulatory factors influencing churn.
 
 Income brackets to link affordability with churn risk.
+
+-------------------------------------------------------------
+
