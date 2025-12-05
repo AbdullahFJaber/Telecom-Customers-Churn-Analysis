@@ -149,6 +149,8 @@ before importing the dataset into Power BI for advanced modeling.
 ## 🧮 DAX 
 
 Data Analysis Expressions Applied to create dynamic measures and KPIs such as churn rate, lost revenue, retention rate, and average tenure. DAX formulas ensured accurate calculations, enabled scenario analysis, and supported executive-level insights through custom logic.
+
+
 ---------------------------------------------------------------------------------------
 # 4️⃣ Data Processing & Modeling
 
