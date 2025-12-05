@@ -656,6 +656,11 @@ Income brackets to link affordability with churn risk.
 
 -------------------------------------------------------------
 
+# 🗂 Files in This Repository
+
+Telco-Customer-Churn-Analysis.pbix
+
+
 # 🔗 Interactive Dashboard
 
 You can explore the fully interactive dashboard online without needing Power BI Desktop. Click the link below to view the report:
