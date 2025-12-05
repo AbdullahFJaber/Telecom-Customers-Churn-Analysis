@@ -656,3 +656,12 @@ Income brackets to link affordability with churn risk.
 
 -------------------------------------------------------------
 
+# 🔗 Interactive Dashboard
+
+You can explore the fully interactive dashboard online without needing Power BI Desktop. Click the link below to view the report:
+
+https://shorturl.at/hmPtr
+
+Note: The dashboard works best on desktop browsers. Mobile browsers may have limited functionality.
+
+
