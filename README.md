@@ -467,6 +467,98 @@ Launch early-tenure retention programs to stabilize customers within the first y
 
 Continuously monitor churn KPIs with executive dashboards for proactive decision-making.
 
+# 🔎 Detailed Churn Drivers & Retention Strategies
+
+### 🟥1 Electronic Check (45.29%)
+
+Cause: Perceived as inconvenient/insecure.
+
+Strategy: Promote automatic payments with incentives.
+
+### 🟥2 Month-to-Month Contract (42.71%)
+
+Cause: Flexibility makes leaving easy.
+
+Strategy: Upgrade campaigns to longer contracts.
+
+### 🟥3 Fiber Internet (41.89%)
+
+Cause: Service quality/support issues.
+
+Strategy: Enhance reliability and proactive support.
+
+### 🟥4 Senior Citizens (41.68%)
+
+Cause: Difficulty with technology.
+
+Strategy: Simplify packages and provide tailored support.
+
+### 🟥5 Paperless Billing (33.59%)
+
+Cause: Missed notifications or disconnection.
+
+Strategy: Improve digital bill design and reminders.
+
+### 🟥6 No Partner (32.98%)
+
+Cause: Lack of shared motivation.
+
+Strategy: Personalize offers and loyalty programs.
+
+### 🟥7 No Dependents (31.28%)
+
+Cause: Flexibility to switch providers.
+
+Strategy: Competitive individual packages.
+
+### 🟥8 Streaming TV (30.11%)
+
+Cause: Quality issues or cheaper alternatives.
+
+Strategy: Improve streaming quality and exclusive content.
+
+### 🟥9 Streaming Movies (29.95%)
+
+Cause: Competition from global platforms.
+
+Strategy: Regional content and partnerships.
+
+### 🟥10 Multiple Lines (28.65%)
+
+Cause: Complex billing/high costs.
+
+Strategy: Simplify billing and family discounts.
+
+### 🟥11 Phone Service (26.75%)
+
+Cause: Traditional service feels outdated.
+
+Strategy: Integrate with modern bundles.
+
+### 🟥12 No Phone Service (25.00%)
+
+Cause: Service feels incomplete.
+
+Strategy: Affordable add-on phone packages.
+
+### 🟥13 Non-Senior (23.65%)
+
+Cause: Younger customers churn due to competition.
+
+Strategy: Youth-oriented offers and digital loyalty.
+
+### 🟥14 Device Protection (22.54%)
+
+Cause: Seen as unnecessary/costly.
+
+Strategy: Tiered protection plans and bundling.
+
+### 🟥15 Online Backup (21.57%)
+
+Cause: Free alternatives undervalue service.
+
+Strategy: Enhance usability, security, and bundle offers.
+
 ------------------------------------------------------------------------------------------
 
 # 1️⃣2️⃣ Recommendations
