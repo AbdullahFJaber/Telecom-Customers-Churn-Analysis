@@ -665,7 +665,9 @@ Telco-Customer-Churn-Analysis.pbix
 
 You can explore the fully interactive dashboard online without needing Power BI Desktop. Click the link below to view the report:
 
-https://shorturl.at/hmPtr
+
+https://app.powerbi.com/view?r=eyJrIjoiMWNlYzZlZWYtOTNmNC00NDhlLWFhYjUtMjkxNDFlZWY5MjNkIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9
+
 
 Note: The dashboard works best on desktop browsers. Mobile browsers may have limited functionality.
 
